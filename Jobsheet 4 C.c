@@ -2,9 +2,9 @@
 #include <conio.h>
 
 main (){
-printf ("Nama : Muh. Fitratul Akbar\n");
-printf ("Nim : F1B019093\n ");
-printf ("Kelompok : 19\n\n");
+printf ("Nama : M.Adrain rahman\n");
+printf ("Nim : F1B019084\n ");
+printf ("Kelompok : 18\n\n");
 
 int nim1 [2][2];
 int nim2 [2][2];
